@@ -1,2 +1,2 @@
 # ramulator
-Computer architecture final_lab
+A Computer-architecture course's final_lab.
